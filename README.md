@@ -8,7 +8,6 @@ kAiDB: A Comprehensive Database for the AI/ML Club of Sabanci University, kAi
 
 # Description
 
-Description:
 The kAi AI/ML Club at Sabanci University has become a hub for enthusiasts and professionals in the fields of Artificial Intelligence and Machine Learning. As the club grows in membership and the range of activities it offers, the need for a robust and scalable database system has become paramount. The kAiDB project aims to develop a centralized database that will streamline the management of user profiles, event scheduling, attendance tracking, resource allocation for events and workshops, member communications, and a rewards system.
 
 At its core, the kAiDB will store detailed user information, including contact details and professional links, to foster networking within the community. The database will also handle diverse event types such as seminars, workshops, and project meetings, each with unique attributes and requirements. A particular focus will be on maintaining attendance records to facilitate active participation and engagement tracking.
