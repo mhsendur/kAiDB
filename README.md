@@ -128,3 +128,51 @@ Overall, the kAiDB is not just a database; it's a tool to empower the kAi club's
    - PointsEarned, PointsSpent, LastUpdated
    - Cardinality: One-to-Many
    - Implementation: Implicit relationship via UserID in Reward and Transaction tables.
+  
+
+# Further Information
+
+## Repository Contents
+
+In this repository, you will find Python files that enable users to interact with our system. These files facilitate the process of submitting complaints or reviews within our application.
+
+## Complaint Submission System
+
+We have added a complaint submission system to our application, and we have  tested and demonstrated its functionality through two primary collections: Event-Complaints and Application-Complaints.
+
+### Key Elements
+
+The key elements of this task include the following:
+
+1. **Database Utilization**
+   - Utilizing the database for storing and managing complaint data.
+
+2. **Application Development**
+   - Developing the necessary features and functions within our application to support complaint submission.
+
+3. **Core Functionalities**
+   - Implementing core functions that enable users to interact with the complaint submission system effectively. These functions should be designed to work seamlessly with any collection and accomplish their specified purposes.
+
+   a. **Implement Functions for Specific Actions**
+      - i.   Create a new collection for complaints.
+      - ii.  Retrieve all data within a collection.
+      - iii. Retrieve specific data while applying filters.
+      - iv.  Insert new complaint data.
+      - v.   Delete existing complaint data.
+      - vi.  Update complaint data.
+      
+   b. **Function Flexibility**
+      - Ensure that these functions can work with any collection, not limited to Event-Complaints and Application-Complaints, and achieve their intended goals efficiently.
+
+By addressing these key elements, we aim to provide users with a seamless and efficient experience when submitting complaints through our system.
+
+
+<img width="960" alt="Screenshot 2024-01-27 at 18 28 26" src="https://github.com/mhsendur/kAiDB/assets/120842010/973adede-474a-4b85-8fe2-6d4feceec192">
+
+<img width="1082" alt="Screenshot 2024-01-27 at 18 28 56" src="https://github.com/mhsendur/kAiDB/assets/120842010/f1588b5c-935d-4bbf-8f29-cdccc187b55d">
+
+<img width="1086" alt="Screenshot 2024-01-27 at 18 29 24" src="https://github.com/mhsendur/kAiDB/assets/120842010/99512732-300c-4b05-99b8-6cd28c9647c9">
+
+<img width="833" alt="Screenshot 2024-01-27 at 18 29 37" src="https://github.com/mhsendur/kAiDB/assets/120842010/fb394a51-31b7-4cf5-a7e0-98c71d78b9e3">
+
+
