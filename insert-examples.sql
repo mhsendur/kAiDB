@@ -30,3 +30,18 @@ LinkedInLink, GitHubLink, DateJoined, MembershipStatus)VALUES
 ('Jake', 'Taylor', 'jake.taylor@email.com', '1234567899',
 'linkedin.com/jake', 'github.com/jake', '2021-10-01',
 'Inactive');
+
+INSERT INTO MemberApplication (UserID, ApplicationDate,
+ApplicationStatus)
+VALUES
+(1, '2021-01-05', 'Accepted'),
+(2, '2021-02-10', 'Pending'),
+(3, '2021-03-15', 'Rejected'),
+(4, '2021-04-20', 'Accepted'),
+(5, '2021-05-25', 'Pending'),
+(6, '2021-06-30', 'Accepted'),
+(7, '2021-07-05', 'Pending'),
+(8, '2021-08-10', 'Accepted'),
+(9, '2021-09-15', 'Rejected'),
+(10, '2021-10-20', 'Accepted');
+
