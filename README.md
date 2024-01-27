@@ -2,9 +2,9 @@
 kAiDB: A Comprehensive Database for the AI/ML Club of Sabanci University, kAi
 
 # Project Members:
-Mustafa Harun Şendur 
-Serhan Yılmaz 
-Sadiq Qara 
+- Mustafa Harun Şendur 
+- Serhan Yılmaz 
+- Sadiq Qara 
 
 # Description
 
